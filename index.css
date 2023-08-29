@@ -587,7 +587,7 @@ nav {
   border-radius: 10px;
   margin-top: 20px;
 }
-.-section .two-column .col-left input:focus,
+.contact-section .two-column .col-left input:focus,
 .contact-section .two-column .col-left input:valid {
   outline: #2532de 1px solid;
   color: green;
